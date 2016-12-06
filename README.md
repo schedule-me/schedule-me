@@ -4,6 +4,8 @@ Schedule-me is a schedule management application for service-oriented businesses
 
 Visit live demo [here](ec2-54-183-97-115.us-west-1.compute.amazonaws.com:8000)!
 
+![Alt text](/../readme/scheduleme_screenshot.png?raw=true)
+
 ## Built with
 
 Angular 2 CLI
@@ -40,7 +42,7 @@ run:
 $ ng build
 $ npm start
 ```
-In browser, naviage to localhost:8000
+In browser, navigate to localhost:8000
  
 ## Team
 [Lucy Ji](https://github.com/lucyji1000)
