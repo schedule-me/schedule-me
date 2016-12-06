@@ -44,7 +44,9 @@ In browser, naviage to localhost:8000
  
 ## Team
 [Lucy Ji](https://github.com/lucyji1000)
+
 [Christopher Phan](https://github.com/cpp6d)
+
 [Sergey Sarkisyan](https://github.com/sergysurge)
 
 
