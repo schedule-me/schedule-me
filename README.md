@@ -22,7 +22,7 @@ This repo uses node's package manager. To check if node is installed, type ```no
 ```
 $ brew install node
 ```
-Note, this app with built with the Angular 2 CLI, to install globally, run:
+Note, this app was built with the Angular 2 CLI, to install globally, run:
 ```
 $ npm install -g angular-cli
 ```
